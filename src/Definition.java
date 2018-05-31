@@ -1,8 +1,9 @@
 
 public class Definition {
-
+    
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+       String d1, d2;
+       
 
 	}
 
